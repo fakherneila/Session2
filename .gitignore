@@ -1,0 +1,22 @@
+# Node / React Native
+**/node_modules/
+**/.expo/
+**/dist/
+**/build/
+
+# Flutter
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build/
+tp2_flutter/.packages
+tp2_flutter/pubspec.lock
+
+# Android (inside Flutter)
+tp2_flutter/android/.gradle/
+tp2_flutter/android/app/build/
+tp2_flutter/android/local.properties
+
+# System
+.DS_Store
+*.log
